@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, C and HTML.
 - 💞️ I’m looking to collaborate on New Innovative Projects
 - 📫 How to reach me @prajwal00528@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: (He/Him)
 - ⚡ Fun fact: ...
 
 <!---
